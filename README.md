@@ -9,7 +9,7 @@
 ### //====================================
 
 ## //{G}
-## //{gurraoptimus.se/dev}
+## // [{gurraoptimus.se/dev}](https://gurraoptimus.se/dev).
 ## //Dev.
 ## //this is github text editor. 
  
