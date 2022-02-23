@@ -8,12 +8,12 @@
 
 ### //====================================
 
-## //{G}
+## // {G}
 ## // [{gurraoptimus.se/dev}](https://gurraoptimus.se/dev).
-## //Dev.
-## //this is github text editor. 
+## // Dev.
+## // this is github text editor. 
  
-### //Copyright © gurraoptimus.se 2022. All rights reserved
+### // Copyright © gurraoptimus.se 2022. All rights reserved
 
 ### //====================================
 
